@@ -1,2 +1,2 @@
-# pink_kriging_skater
-Details on the  regionalization analysis performed in the analysis of pink iguanas distribution range. 
+# pink_ditribution
+Details on the analyses performed in TITLE GOES HERE. 
